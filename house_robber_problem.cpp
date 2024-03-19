@@ -36,6 +36,7 @@ int solve(vector<int>&arr){
         ans2 += arr[i];
         // cout<<"for ans2 "<<arr[i]<<" ";
     }
+    
     return max(ans1, ans2);
 }
 
