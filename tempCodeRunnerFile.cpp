@@ -1,0 +1,1 @@
+  // cout<<"for ans1 "<<arr[i]<<" ";
